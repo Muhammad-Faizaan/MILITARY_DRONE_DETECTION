@@ -1,7 +1,7 @@
-# MILITARY_DRONE_DETECTION 🚀  
+### MILITARY_DRONE_DETECTION   
 Real-Time Military UAV Threat Identification with YOLO11  
 
-**Author:** Muhammad Faizaan – Initiator of FΛVEN INTELLIGENCE (FΛVI)  
+Author: **Muhammad Faizaan – Initiator of FΛVEN INTELLIGENCE (FΛVI)**  
 
 ---
 
@@ -14,22 +14,22 @@ Built on **YOLO11n**, fine-tuned with a **synthetic dataset of 14 UAV types**, t
 ---
 
 ## ✨ Features
-- **Specialized Military UAV Detection** – Shahed, Lancet, Orlan, ZALA, Forpost, Mohajer, Granat, SuperCam, Techyon, DJI Mavic 3  
-- **Synthetic Dataset Training** – Blender-generated imagery with perfect annotations  
-- **Real-Time Performance** – GPU-accelerated inference (~370 FPS on RTX 4060)  
-- **Multi-Modal Interface** – Image upload, video processing, and live webcam surveillance  
-- **Streamlit Web App** – Intuitive control panel with confidence threshold adjustment  
-- **Robust Against False Positives** – Configurable thresholds to ignore birds and non-UAV aerial objects  
+- **Specialized Military UAV Detection** – Shahed, Lancet, Orlan, ZALA, Forpost, Mohajer, Granat, SuperCam, Techyon, DJI Mavic 3.  
+- **Synthetic Dataset Training** – Blender-generated imagery with perfect annotations.  
+- **Real-Time Performance** – GPU-accelerated inference (~370 FPS on RTX 4060).  
+- **Multi-Modal Interface** – Image upload, video processing, and live webcam surveillance.  
+- **Streamlit Web App** – Intuitive control panel with confidence threshold adjustment.  
+- **Robust Against False Positives** – Configurable thresholds to ignore birds and non-UAV aerial objects.  
 
 ---
 
 ## 📊 Performance Metrics
-| Metric          | Score   |
-|-----------------|---------|
-| mAP50           | 94.8%   |
-| mAP50-95        | 76.1%   |
-| Precision       | 95.6%   |
-| Recall          | 90.7%   |
+| Metric        | Score   |
+|---------------|---------|
+| mAP50         | 94.8%   |
+| mAP50-95      | 76.1%   |
+| Precision     | 95.6%   |
+| Recall        | 90.7%   |
 | Inference Speed | 2.7ms (GPU) |
 
 > Recommended confidence threshold: **0.40** to eliminate false positives.
@@ -100,15 +100,16 @@ MILITARY_DRONE_DETECTION/
 
 ## 🖼️ Demo Media
 ### 📸 Image Detection Example
-*(Attach images here)*  
-`https://github.com/user-attachments/assets/f0b07620-a646-4eeb-854c-333dcb8bf8cf`  
-`https://github.com/user-attachments/assets/96c2cb67-6ae3-474c-8cca-8a21936d9463`  
-`https://github.com/user-attachments/assets/bef3c3ac-2a71-4f6e-9804-44580fcb6f4b`  
+
+<img width="1920" height="921" alt="app_interface" src="https://github.com/user-attachments/assets/f0b07620-a646-4eeb-854c-333dcb8bf8cf" />
+![app_interface](https://github.com/user-attachments/assets/59ca099b-1f98-4b1d-94d1-f1000750b2e2)
+![drone_detection](https://github.com/user-attachments/assets/96c2cb67-6ae3-474c-8cca-8a21936d9463)
+<img width="1920" height="920" alt="drone_detection" src="https://github.com/user-attachments/assets/a53a9d09-e8bf-4ef6-aaaf-d5eacb4f3fc2" />
+<img width="1917" height="920" alt="no_detection" src="https://github.com/user-attachments/assets/3519329e-ab76-4a53-bee4-041a329f4e19" />
+![no_detection](https://github.com/user-attachments/assets/bef3c3ac-2a71-4f6e-9804-44580fcb6f4b)
 
 ### 🎥 Video Processing Example
-*(Attach video here)*  
-[Demo Video](https://github.com/user-attachments/assets/834f4e58-fdd0-411c-a684-3ae49639ed17)  
-
+https://github.com/user-attachments/assets/834f4e58-fdd0-411c-a684-3ae49639ed17
 ---
 
 ## 🔮 Future Enhancements
@@ -146,7 +147,7 @@ MIT License – Free to use, modify, and distribute with attribution.
 
 ---
 
-## 🛡️ Founder’s Note
+### 🛡️ Founder’s Note
 This repository reflects my vision as **Initiator of FΛVEN INTELLIGENCE (FΛVI)**:  
 to push boundaries in **AI-driven defense technology**, blending **technical mastery** with **futuristic branding**. Every detail is engineered for precision, speed, and impact.  
 
