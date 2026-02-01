@@ -1,5 +1,5 @@
 ### MILITARY_DRONE_DETECTION   
-Real-Time Military UAV Threat Identification with YOLO11  
+RealTime Military UAV Threat Identification with YOLO11  
 
 Author: **Muhammad Faizaan – Initiator of FΛVEN INTELLIGENCE (FΛVI)**  
 
@@ -102,11 +102,9 @@ MILITARY_DRONE_DETECTION/
 ### 📸 Image Detection Example
 
 <img width="1920" height="921" alt="app_interface" src="https://github.com/user-attachments/assets/f0b07620-a646-4eeb-854c-333dcb8bf8cf" />
-![app_interface](https://github.com/user-attachments/assets/59ca099b-1f98-4b1d-94d1-f1000750b2e2)
-![drone_detection](https://github.com/user-attachments/assets/96c2cb67-6ae3-474c-8cca-8a21936d9463)
 <img width="1920" height="920" alt="drone_detection" src="https://github.com/user-attachments/assets/a53a9d09-e8bf-4ef6-aaaf-d5eacb4f3fc2" />
 <img width="1917" height="920" alt="no_detection" src="https://github.com/user-attachments/assets/3519329e-ab76-4a53-bee4-041a329f4e19" />
-![no_detection](https://github.com/user-attachments/assets/bef3c3ac-2a71-4f6e-9804-44580fcb6f4b)
+
 
 ### 🎥 Video Processing Example
 https://github.com/user-attachments/assets/834f4e58-fdd0-411c-a684-3ae49639ed17
